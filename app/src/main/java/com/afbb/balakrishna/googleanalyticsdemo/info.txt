@@ -1,0 +1,12 @@
+
+download googleAnlalytics library add in your 'libs'
+https://developers.google.com/analytics/devguides/collection/android/v4/
+
+show in;
+https://www.google.com/analytics/web/?hl=en#realtime/rt-app-overview/a65167257w101332785p105277296/%3Ffilter.list%3D33%3D%3DMOBILE%3B/
+
+in above,in analytics console shows the app information like how many number of user currently using our application, and users usage graph in monthly wise etc...
+
+for details like how to register and where to maintain tack_id etc..follow below link
+
+http://examples.javacodegeeks.com/android/android-google-analytics-v4-example/
